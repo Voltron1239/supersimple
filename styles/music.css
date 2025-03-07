@@ -1,0 +1,29 @@
+html {
+	background-color: #e2fefe;
+}
+
+body {
+	border: 6px solid #FFC0CB;
+	padding: 1em;
+	margin: auto;
+}
+header h1 {
+	text-align: center;
+	font-family: Georgia,Verdana, Serif;
+}
+
+div {
+	text-align: center;
+}
+
+body h1 {
+	color: black;
+}
+
+p {
+	font-style: bold;
+}
+
+footer {
+	
+}
